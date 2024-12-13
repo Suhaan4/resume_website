@@ -1,0 +1,7 @@
+registration_app/
+│
+├── index.html          // Main HTML form
+├── styles.css          // CSS for styling
+├── script.js           // Optional JavaScript/jQuery functionality
+├── process.php         // PHP to handle form submission
+├── README.md           // Optional file to describe the project
